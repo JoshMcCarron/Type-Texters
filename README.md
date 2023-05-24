@@ -5,3 +5,4 @@
 
 * The last modifications to the code were done in June 2019.
 * I am currently learning how to use Java Swing so that I can translate this project into more accessible code
+---
